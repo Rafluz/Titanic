@@ -1,7 +1,7 @@
 1. Praproses,
 2. Membuat Model,
 3. Evaluasi Model (confusion matrix),
-
+pada data yang telah disediakan Dataset Titanic/penumpang.csv untuk melakukan klasifikasi biner (Selamat atau Tidak Selamat).
 PassengerId = Nomor Id Penumpang
 Survived    = Keterangan Selamat(0=Tidak, 1=Ya)
 Pclass      = Kelas Tiket (1=Kelas 1, 2=Kelas 2, dst)
