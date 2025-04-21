@@ -1,0 +1,21 @@
+1. Praproses,
+2. Membuat Model,
+3. Evaluasi Model (confusion matrix),
+
+PassengerId = Nomor Id Penumpang
+Survived    = Keterangan Selamat(0=Tidak, 1=Ya)
+Pclass      = Kelas Tiket (1=Kelas 1, 2=Kelas 2, dst)
+Name        = Nama Penumpang
+Sex         = Jenis kelamin
+Age         = Usia dalam tahun
+SibSp       = Jumlah saudara kandung / pasangan di kapal Titanic
+Parch       = Jumlah orang tua / anak di kapal Titanic
+Ticket      = Nomor Tiket
+Fare        = Harga Tiket
+Cabin       = Nama Kabin
+Embarked    = Pelabuhan Asal (C = Cherbourg, Q = Queenstown, S = Southampton)
+
+jadi pembagian
+
+preprocesing data 
+dengan berbagai tipe kombinasi contoh missing value A outlier B
